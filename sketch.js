@@ -58,9 +58,9 @@ function draw() {
     y += 24; // Move to the next line
   }
 
-  y += 24; 
+  y += 24;
   for (let posLine of posTags) {
     text(posLine, 10, y, width - 20);
-    y += 24; 
+    y += 24;
   }
 }
