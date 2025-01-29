@@ -1,5 +1,5 @@
 # workshop-task-6
-FA205_Workshop_6 Here is a URL to the webpage for this project: [link]( )
+FA205_Workshop_6 Here is a URL to the webpage for this project: [link](https://jeffcai0502.github.io/workshop-task-6/ )
 
 ## Task
 - Create an interactive nonsense poem generator using the rita.js library.
@@ -31,3 +31,12 @@ https://rednoise.org/rita/reference/RiTa/pos/index.html
 
 https://rednoise.org/rita/reference/RiTa/sentences/index.html
 <img width="832" alt="截屏2025-01-30 上午6 27 05" src="https://github.com/user-attachments/assets/0bea324f-193d-498c-8dc2-5cbc9ac6f07d" />
+
+## Reflection:
+
+- Version 1
+  
+<img width="399" alt="截屏2025-01-30 上午7 00 44" src="https://github.com/user-attachments/assets/f9177b30-5a24-4cff-9541-b7ee090656da" />
+
+- Version 2
+<img width="798" alt="截屏2025-01-30 上午6 59 48" src="https://github.com/user-attachments/assets/e78b2ae4-51e0-4088-bd71-fcb15aeb37d8" />
