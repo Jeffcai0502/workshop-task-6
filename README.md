@@ -34,6 +34,16 @@ https://rednoise.org/rita/reference/RiTa/sentences/index.html
 
 ## Reflection:
 
+When the user enters a word or phrase and clicks the "Add to Poem" button, the script processes the input using RiTa.js functions and generates a fun, nonsensical poem. 
+
+RiTa.tokenize: Tokenizes the user's input into individual words.
+
+RiTa.pos: Gets the part-of-speech tags for the input words.
+
+RiTa.rhymes: Finds rhyming words for a randomly selected word in the input.
+
+RiTa.untokenize: Converts the array of words back into a sentence.
+
 - Version 1
   
 <img width="399" alt="截屏2025-01-30 上午7 00 44" src="https://github.com/user-attachments/assets/f9177b30-5a24-4cff-9541-b7ee090656da" />
